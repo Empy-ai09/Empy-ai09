@@ -1,7 +1,5 @@
 # Hi there, I'm Zahwan 👋  
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,code)
-
 ### 🚀 About Me  
 - 🔭 I am still a beginner in this field  
 - 🌱 I am still learning about networking   
