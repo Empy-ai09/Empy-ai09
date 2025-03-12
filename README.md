@@ -11,9 +11,6 @@
 ### 📊 GitHub Stats  
 ![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight)  
 
-### 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Empy-ai09&theme=onedark)  
-
 ### 📫 Contact Me  
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-profile)  
