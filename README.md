@@ -3,10 +3,10 @@
 ![GitHub Banner](https://source.unsplash.com/1600x400/?technology,code)
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on something cool 😉  
-- 🌱 I’m currently learning Web Development & Cybersecurity  
-- 💬 Ask me about Linux, Coding & Open Source  
-- ⚡ Fun fact: I love flying kites & fishing 🎣  
+- 🔭 I am still a beginner in this field  
+- 🌱 I am still learning about networking   
+- 💬 invite me to discuss Linux and networking
+- ⚡ Fun fact: I love flying kites & fishing
 
 ### 📊 GitHub Stats  
 ![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight)  
