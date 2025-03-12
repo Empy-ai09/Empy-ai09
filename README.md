@@ -6,7 +6,7 @@
 - 🔭 I am still a beginner in this field  
 - 🌱 I am still learning about networking   
 - 💬 invite me to discuss Linux and networking
-- ⚡ Fun fact: I love flying kites & fishing
+- ⚡ Fun fact: I like "social engineering"
 
 ### 📊 GitHub Stats  
 ![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight)  
