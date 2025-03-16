@@ -8,7 +8,15 @@
 - ✨ and I still like playing the game "Minecraft"
 
 ### 📊 GitHub Stats  
-![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight)  
+![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight) 
+
+ My Skills
+
+![Python](https://img.shields.io/badge/Python-12%25-red)
+![HTML](https://img.shields.io/badge/HTML-60%25-orange)
+![Fishing](https://img.shields.io/badge/Fishing-80%25-green)
+![Design](https://img.shields.io/badge/Design-30%25-blue)
+![Photography](https://img.shields.io/badge/Photography-93%25-purple)
 
 ### 📫 Contact Me  
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)  
