@@ -19,8 +19,7 @@
 ![Photography](https://img.shields.io/badge/Photography-93%25-purple)
 
 ### 📫 Contact Me  
-[![Discord Profile](https://discord-profile-card.vercel.app/api?theme=dark&id=YOUR_DISCORD_ID)](https://discord.com/users/1260786021268721684) 
-
+![Discord](https://discord.c99.nl/widget/theme-4/1260786021268721684.png)
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
 <!---
 Empy-ai09/Empy-ai09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
