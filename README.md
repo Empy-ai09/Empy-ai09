@@ -19,9 +19,10 @@
 ![Photography](https://img.shields.io/badge/Photography-93%25-purple)
 
 ### 📫 Contact Me  
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Empy-ai09) <br>
-[![Discord](https://img.shields.io/badge/Discord-zahwan.com5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1260786021268721684)
+phone: <i>6285136467833</i><br>
+<b>mohon kebijaksanaannya jangan <i>spam/bug</i>🙏🙏🙏
+<br>
+[![Discord](https://img.shields.io/badge/Discord-zahwan.com5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1260786021268721684) 👈👈my discord 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
 <!---
