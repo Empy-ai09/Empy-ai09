@@ -19,8 +19,6 @@
 ![Photography](https://img.shields.io/badge/Photography-93%25-purple)
 
 ### 📫 Contact Me  
-phone: <i>6285136467833</i><br>
-<b>(mohon kebijaksanaannya jangan <i>spam/bug)</i>🙏🙏🙏
 <br>
 [![Discord](https://img.shields.io/badge/Discord-zahwan.com5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1260786021268721684) 👈👈my discord 
 
