@@ -19,7 +19,7 @@
 ![Photography](https://img.shields.io/badge/Photography-93%25-purple)
 
 ### 📫 Contact Me  
-[![Discord](https://img.shields.io/badge/Discord-zahwan.com5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1260786021268721684) 👈👈my discord 
+[![Discord Profile](https://discord-profile-card.vercel.app/api?theme=dark&id=YOUR_DISCORD_ID)](https://discord.com/users/1260786021268721684) 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
 <!---
