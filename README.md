@@ -1,4 +1,5 @@
 # Hi there, I'm Zahwan 👋  
+<img src="[https://your-gif-url.gif](https://tenor.com/id/view/anime-wave-hello-chibi-greetings-gif-)" width="400">
 
 ### me
 - 🔭 I am still a beginner in this field  
