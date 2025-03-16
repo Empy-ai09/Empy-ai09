@@ -1,5 +1,4 @@
 # Hi there, I'm Zahwan 👋  
-<img src="[https://your-gif-url.gif](https://tenor.com/id/view/anime-wave-hello-chibi-greetings-gif-)" width="400">
 
 ### me
 - 🔭 I am still a beginner in this field  
@@ -11,13 +10,15 @@
 ### 📊 GitHub Stats  
 ![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight)  
 
-### 💫 other
-
-
 ### 📫 Contact Me  
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)  
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Empy-ai09) <br>
 [![Discord](https://img.shields.io/badge/Discord-zahwan.com5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1260786021268721684)
+
+### 💫 other
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
+
+
 <!---
 Empy-ai09/Empy-ai09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
