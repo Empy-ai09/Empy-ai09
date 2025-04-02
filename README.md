@@ -21,7 +21,7 @@
 ### 📫 Contact Me  
 [![Discord](https://discord.c99.nl/widget/theme-4/1260786021268721684.png)](https://discord.com/users/1260786021268721684) <br>
 
-<a href="https://t.me/@archildnux" style="display: flex; align-items: center; text-decoration: none;">
+<a href="https://t.me/archildnux" style="display: flex; align-items: center; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="margin-right: 10px;">
     <span>hubungi saya</span>
 </a>
