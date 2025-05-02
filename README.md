@@ -16,7 +16,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Empy-ai09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Empy-ai09 /Empy-ai09 /output/snake.svg" alt="Snake animation" />
+
+###
 
 <!---
 Empy-ai09/Empy-ai09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
