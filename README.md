@@ -1,11 +1,13 @@
 # Hi there, I'm Zahwan 👋  
 
-### me
+### about me
 - 🔭 I am still a beginner in this field
 - 🌱 I am still learning about networking   
 - 💬 invite me to discuss Linux and networking
 - 🎲 Fun fact: I like "social engineering"
 - ✨ and I still like playing the game "Minecraft"
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
 
 ### 📊 GitHub Stats  
 ![Zahwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=tokyonight) 
@@ -17,16 +19,6 @@
 ![Fishing](https://img.shields.io/badge/Fishing-80%25-green)
 ![Design](https://img.shields.io/badge/Design-30%25-blue)
 ![Photography](https://img.shields.io/badge/Photography-93%25-purple)
-
-### 📫 Contact Me  
-[![Discord](https://discord.c99.nl/widget/theme-4/1260786021268721684.png)](https://discord.com/users/1260786021268721684) <br>
-
-<a href="https://t.me/archildnux" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50" style="margin-right: 10px;">
-    <span>hubungi saya</span>
-</a>
-<hr>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
 <!---
 Empy-ai09/Empy-ai09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
