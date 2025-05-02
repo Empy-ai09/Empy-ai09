@@ -1,6 +1,4 @@
-![Header](./aset/github-header-image.png)
 # Hi there, I'm Zahwan 👋  
-
 ## about me
 - 🔭 I am still a beginner in this field
 - 🌱 I am still learning about networking   
@@ -21,9 +19,6 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-##### conact with me!
-![https://www.instagram.com/_z4hwn/profilecard/?igsh=c3dieTlxaTNscDRh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://wa.me/message/6CVMBNTWCPTRD1](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white) ![https://pin.it/78ipjVdLd](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)
 
 <p align="left">play game with me👾</p>
 
