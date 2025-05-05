@@ -1,4 +1,4 @@
-# hi everyone, I am Zahwan👋
+# hi everyone, I am Zahwan
 ## 💫 About Me:
 -🔭 I am still a beginner in this field<br>- 🌱 I am still learning about networking   <br>- 💬 invite me to discuss Linux and networking<br>- 🎲 Fun fact: I like "social engineering"<br>- ✨ and I still like playing the game "Minecraft"<br>
 
