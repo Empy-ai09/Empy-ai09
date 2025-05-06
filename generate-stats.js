@@ -4,6 +4,19 @@ const fetch = require("node-fetch");
 const username = "Empy-ai09";
 const outputFile = "stats.json";
 
+async function countCommits(repo) {
+  let page = 1;
+  let total = 0;
+  while (true) {
+    const res = await fetch(`${repo.commits_url.replace("{/sha}", "")}?per_page=100&page=${page}`);
+    const data = await res.json();
+    if (!Array.isArray(data) || data.length === 0) break;
+    total += data.length;
+    page++;
+  }
+  return total;
+}
+
 (async () => {
   const res = await fetch(`https://api.github.com/users/${username}`);
   const data = await res.json();
@@ -16,9 +29,7 @@ const outputFile = "stats.json";
 
   for (const repo of repos) {
     totalStars += repo.stargazers_count;
-    const commitRes = await fetch(repo.commits_url.replace("{/sha}", ""));
-    const commits = await commitRes.json();
-    totalCommits += Array.isArray(commits) ? commits.length : 0;
+    totalCommits += await countCommits(repo);
   }
 
   const stats = {
