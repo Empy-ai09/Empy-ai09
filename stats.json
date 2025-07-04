@@ -1,8 +1,12 @@
 {
   "username": "Empy-ai09",
-  "totalStars": 0,
-  "totalCommits": 0,
-  "publicRepos": 0,
-  "languages": {},
-  "updated": "2025-07-03T01:55:14.671Z"
+  "totalStars": 2,
+  "totalCommits": 144,
+  "publicRepos": 7,
+  "languages": {
+    "JavaScript": 25539,
+    "CSS": 17935,
+    "HTML": 29448
+  },
+  "updated": "2025-07-04T01:54:49.753Z"
 }
