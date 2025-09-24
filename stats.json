@@ -1,14 +1,12 @@
 {
   "username": "Empy-ai09",
   "totalStars": 2,
-  "totalCommits": 210,
+  "totalCommits": 226,
   "publicRepos": 8,
   "languages": {
-    "JavaScript": 22592,
-    "CSS": 13031,
-    "HTML": 11364,
-    "message": "0API rate limit exceeded for 172.182.211.21. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.182.211.21. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.182.211.21. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.182.211.21. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-    "documentation_url": "0https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+    "JavaScript": 25539,
+    "CSS": 17935,
+    "HTML": 29448
   },
-  "updated": "2025-09-23T01:40:59.828Z"
+  "updated": "2025-09-24T01:42:13.838Z"
 }
