@@ -1,14 +1,12 @@
 {
   "username": "Empy-ai09",
   "totalStars": 2,
-  "totalCommits": 6,
+  "totalCommits": 327,
   "publicRepos": 9,
   "languages": {
-    "JavaScript": 5459,
-    "CSS": 4690,
-    "HTML": 2368,
-    "message": "0API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 104.209.7.218. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-    "documentation_url": "0https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+    "JavaScript": 29880,
+    "CSS": 17935,
+    "HTML": 47619
   },
-  "updated": "2025-12-31T01:59:16.337Z"
+  "updated": "2026-01-01T02:09:37.232Z"
 }
