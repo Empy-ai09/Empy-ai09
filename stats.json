@@ -1,14 +1,12 @@
 {
   "username": "Empy-ai09",
   "totalStars": 2,
-  "totalCommits": 398,
+  "totalCommits": 433,
   "publicRepos": 10,
   "languages": {
-    "JavaScript": 20390,
-    "CSS": 11970,
-    "HTML": 10602,
-    "message": "0API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 57.151.136.161. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-    "documentation_url": "0https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+    "JavaScript": 29880,
+    "CSS": 17935,
+    "HTML": 47619
   },
-  "updated": "2026-04-13T03:22:06.204Z"
+  "updated": "2026-04-14T02:54:18.335Z"
 }
