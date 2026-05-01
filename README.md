@@ -29,7 +29,6 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Empy-ai09&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Empy-ai09&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Empy-ai09&theme=tokyonight)
 
 ---
