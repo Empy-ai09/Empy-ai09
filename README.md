@@ -1,13 +1,6 @@
-# 👋 Hi everyone, I'm Zahwan
+# just scroling and done
 
-## 💫 About Me:
-- 🔭 Currently still a beginner in tech (but leveling up every day)
-- 🌱 Learning networking & exploring the Linux world
-- 💬 Open for discussions about Linux and networking
-- 🎲 Fun fact: Interested in social engineering👀
-- 🎮 Still enjoying Roblox, because why not?
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh1cHJhZ254OTd2ZnF3Z25vODUwNG5tM3I5czYxOTEzdmt4ZXBrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owcXE0MWN2N3YwMGl1cWY1aHJqNTRwZ3hsc2IyYjM0bjZzNzV4diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gvfpZrR54qd56/giphy.gif" width="500">
 
 ---
 
@@ -28,7 +21,6 @@
 ## 📊 GitHub Stats:
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Empy-ai09&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Empy-ai09&theme=tokyonight)
 
 ---
