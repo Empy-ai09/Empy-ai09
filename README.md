@@ -1,4 +1,4 @@
-# just scroling and done
+# just scroling and take my repo
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owcXE0MWN2N3YwMGl1cWY1aHJqNTRwZ3hsc2IyYjM0bjZzNzV4diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gvfpZrR54qd56/giphy.gif" width="500">
 
@@ -31,5 +31,5 @@
 ---
 
 <!--
-Empy-ai09/Empy-ai09 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+ini adalah repositori spesial
 -->
