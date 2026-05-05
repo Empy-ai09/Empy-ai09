@@ -1,6 +1,6 @@
 # just scroling and take my repo
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2owcXE0MWN2N3YwMGl1cWY1aHJqNTRwZ3hsc2IyYjM0bjZzNzV4diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gvfpZrR54qd56/giphy.gif" width="500">
+<img src="asset/banner.jpg" alt="banner" width="500">
 
 ---
 
@@ -11,22 +11,10 @@
 ---
 
 ## 💻 Tech Stack:
-
-### HTML5
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-*I learned a little from school, the rest I learned from YouTube and AI*
-
-### JavaScript
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-*I only learn from online classes and AI*
-
-### PHP
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-*I only learn from school and AI*
-
-### CSS3
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-*I learn from online groups*
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
