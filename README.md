@@ -1,13 +1,13 @@
 # just scrolling and take my repo
 
 <p align="center">
-  <img src="asset/banner.jpg" width="520">
+  <img src="asset/banner.jpg" width="600">
 </p>
 
 ---
 
 ## 🌐 Socials
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/zwanwrld">
     <img src="https://img.shields.io/badge/Discord-ffffff?style=flat&logo=discord&logoColor=black"/>
   </a>
@@ -19,7 +19,7 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-ffffff?style=flat&logo=php&logoColor=black"/>
@@ -29,15 +29,15 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Empy-ai09&theme=default">
 </p>
 
 ---
 
 ## 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Empy-ai09&theme=github">
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Empy-ai09&theme=dracula">
 </p>
 
 ---
