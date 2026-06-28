@@ -8,7 +8,7 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://discord.com/users/zwanwrld">
+  <a href="https://discord.com/users/_rebreath">
     <img src="https://img.shields.io/badge/Discord-ffffff?style=flat&logo=discord&logoColor=black"/>
   </a>
   <a href="https://instagram.com/stfu.kinna">
