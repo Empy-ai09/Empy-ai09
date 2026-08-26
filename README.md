@@ -37,7 +37,7 @@
 
 ## 🔥 Activity Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Empy-ai09&theme=dracula">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empy-ai09&theme=default&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000">
 </p>
 
 ---
