@@ -11,7 +11,7 @@
   <a href="https://discord.com/users/_rebreath">
     <img src="https://img.shields.io/badge/Discord-ffffff?style=flat&logo=discord&logoColor=black"/>
   </a>
-  <a href="https://instagram.com/stfu.kinna">
+  <a href="https://instagram.com/0rebreath">
     <img src="https://img.shields.io/badge/Instagram-ffffff?style=flat&logo=instagram&logoColor=black"/>
   </a>
 </p>
