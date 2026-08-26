@@ -32,12 +32,4 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Empy-ai09&theme=default">
 </p>
-
----
-
-## 🔥 Activity Graph
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Empy-ai09&theme=default&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000">
-</p>
-
 ---
