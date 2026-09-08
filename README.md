@@ -28,8 +28,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Empy-ai09&theme=transparent&hide_border=true&stroke=ffffff&ring=570df8&fire=570df8&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-commit-graph.vercel.app/api?user=Empy-ai09&theme=transparent&hide_border=true&bg_color=0d1117&title_color=570df8&date_color=570df8&line_color=570df8&point_color=570df8" alt="GitHub Commit Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Empy-ai09&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
 </p>
