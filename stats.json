@@ -1,17 +1,15 @@
 {
   "username": "Empy-ai09",
   "totalStars": 1,
-  "totalCommits": 711,
+  "totalCommits": 46,
   "publicRepos": 16,
   "languages": {
-    "CSS": 39958,
-    "HTML": 92366,
-    "JavaScript": 45917,
+    "CSS": 14844,
+    "HTML": 7454,
+    "JavaScript": 8641,
     "Python": 12496,
-    "TypeScript": 16730,
-    "Java": 1301,
-    "Shell": 23278,
-    "PHP": 10855
+    "message": "0API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)API rate limit exceeded for 172.203.212.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "0https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limitinghttps://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
   },
-  "updated": "2026-09-09T03:51:53.654Z"
+  "updated": "2026-09-10T03:51:04.730Z"
 }
